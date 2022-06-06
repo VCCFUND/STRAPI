@@ -5,7 +5,3 @@ module.exports = ({ env }) => ({
     keys: env.array('APP_KEYS'),
   },
 });
-// path: `./server.js`
-
-const strapi = require('@strapi/strapi');
-strapi().start();
