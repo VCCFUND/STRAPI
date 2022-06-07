@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "certificates_id",
+  "info": {
+    "singularName": "certificates",
+    "pluralName": "certificates-id",
+    "displayName": "Certificates"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
